@@ -69,20 +69,20 @@ h2 {
   color: black; }
 
 h3 {
-  background-color: #afeeee;
+  border-bottom: 4px solid #afeeee;
   font-size: 18px; }
 
 h4 {
-  background-color: #b0e0e6;
+  border-bottom: 4px solid #b0e0e6;
   font-size: 16px; }
 
 h5 {
-  background-color: #87ceeb;
-  font-size: 14px; }
+  border-bottom: 4px solid #87ceeb;
+  font-size: 16px; }
 
 h6 {
   color: #777777;
-  font-size: 14px; }
+  font-size: 16px; }
 
 p, blockquote, ul, ol, dl, li, table, pre {
   margin: 15px 0; }
